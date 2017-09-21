@@ -5,9 +5,9 @@
 - UI 呈現
     - 用上面API拉到的資料呈現
     
-    ![](https://github.com/LouisAndroid/android-choco-test/blob/master/pic/first_page.png)
+    ![](https://github.com/LouisAndroid/android-choco-test/blob/master/pic/first_page.png＝200x400)
     
-    ![](https://github.com/LouisAndroid/android-choco-test/blob/master/pic/second_page.png)
+    ![](https://github.com/LouisAndroid/android-choco-test/blob/master/pic/second_page.png＝200x400)
 
     
     
